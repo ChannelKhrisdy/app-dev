@@ -1,19 +1,27 @@
 # app-dev
 My first repository
 
-Hannibal
-About
-Hannibal is my favorite television series because of its compelling story, intelligent characters, and unique visual style.
+# Hannibal
 
-Things I Like
-Psychological thriller elements
-Strong character development
-Cinematography and visual effects
-Main Characters
-Hannibal Lecter
-Will Graham
-Jack Crawford
-Rating
-10/10
+## About the Series
+*Hannibal* is my favorite television series. It follows FBI profiler Will Graham and psychiatrist **Dr. Hannibal Lecter**, whose relationship becomes increasingly complex throughout the story.
 
-<img width="2510" height="2268" alt="image" src="https://github.com/user-attachments/assets/284c925d-ed4a-4b7f-abe8-6202e53d755b" />
+## Why I Like It
+- Psychological thriller theme
+- Excellent cinematography
+- Interesting character development
+- Suspenseful storytelling
+
+> "The series is known for its artistic visuals and psychological depth."
+
+## Main Characters
+1. Hannibal Lecter
+2. Will Graham
+3. Jack Crawford
+4. Alana Bloom
+
+## More Information
+[Hannibal on IMDb](https://www.imdb.com/title/tt2243973/)
+
+### Rating
+**10/10**
